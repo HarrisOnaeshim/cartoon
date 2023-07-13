@@ -1,0 +1,26 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:0 auto;
+    height:100vh;
+}
+
+
+.img {
+    opacity :0.5;
+}
+
+
+.showcase
+{
+    .showcase {
+        background-image: url("https://wp.clutchpoints.com/wp-content/uploads/2022/07/This-is-what-a-Marvel-DC-crossover-would-look-like.jpeg");
+        height: 400px;
+        width: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.6;
+      }
+}
